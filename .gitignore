@@ -1,0 +1,16 @@
+# Backups created during installation
+Backup_CustomHUD_*
+*.bak
+*.tmp
+*.log
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
