@@ -8,7 +8,7 @@ A curated suite of modern, high-framerate, see-through HUD overlays for **RivaTu
 
 1. **Download or Clone this Repository**:
    ```powershell
-   git clone https://github.com/your-username/rtss-custom-overlays.git
+   git clone https://github.com/RAM-MAHESHWARI24/rtss-custom-overlays.git
    cd rtss-custom-overlays
    ```
 2. **Run the Installer**:
@@ -128,3 +128,4 @@ If you are using this suite on a different PC or laptop:
 
 ## 📜 License
 MIT License. Free for personal, non-commercial, and commercial gaming setups.
+

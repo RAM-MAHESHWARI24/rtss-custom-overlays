@@ -1,4 +1,4 @@
-﻿<#
+<#
 .SYNOPSIS
     Quick HUD switcher and FPS cap controller CLI.
 #>
@@ -87,3 +87,4 @@ if (-not [string]::IsNullOrWhiteSpace($FpsLimit) -and (Test-Path $globalProfile)
 
 Write-Host ""
 Write-Host "Changes saved. (If game is active, press the assigned in-game hotkey to instant-refresh)." -ForegroundColor Cyan
+

@@ -1,4 +1,4 @@
-﻿<#
+<#
 .SYNOPSIS
     Installs custom RTSS HUD layouts, configures multi-layout in-game hotkeys,
     and enables true transparent rendering for RivaTuner Statistics Server.
@@ -282,3 +282,4 @@ if (-not $NoRestart) {
 }
 
 Write-Host "Done! Enjoy your clean, high-performance in-game HUD." -ForegroundColor Green
+
